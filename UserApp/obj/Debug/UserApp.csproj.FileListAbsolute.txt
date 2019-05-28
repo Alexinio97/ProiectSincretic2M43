@@ -1,0 +1,14 @@
+C:\Users\Alex\source\dev\PS2-M43\M43\UserApp\bin\Debug\UserApp.exe.config
+C:\Users\Alex\source\dev\PS2-M43\M43\UserApp\bin\Debug\UserApp.exe
+C:\Users\Alex\source\dev\PS2-M43\M43\UserApp\bin\Debug\UserApp.pdb
+C:\Users\Alex\source\dev\PS2-M43\M43\UserApp\bin\Debug\Simulator.exe
+C:\Users\Alex\source\dev\PS2-M43\M43\UserApp\bin\Debug\Simulator.pdb
+C:\Users\Alex\source\dev\PS2-M43\M43\UserApp\bin\Debug\Simulator.exe.config
+C:\Users\Alex\source\dev\PS2-M43\M43\UserApp\obj\Debug\UserApp.csprojAssemblyReference.cache
+C:\Users\Alex\source\dev\PS2-M43\M43\UserApp\obj\Debug\UserApp.Form1.resources
+C:\Users\Alex\source\dev\PS2-M43\M43\UserApp\obj\Debug\UserApp.Properties.Resources.resources
+C:\Users\Alex\source\dev\PS2-M43\M43\UserApp\obj\Debug\UserApp.csproj.GenerateResource.cache
+C:\Users\Alex\source\dev\PS2-M43\M43\UserApp\obj\Debug\UserApp.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\dev\PS2-M43\M43\UserApp\obj\Debug\UserApp.csproj.CopyComplete
+C:\Users\Alex\source\dev\PS2-M43\M43\UserApp\obj\Debug\UserApp.exe
+C:\Users\Alex\source\dev\PS2-M43\M43\UserApp\obj\Debug\UserApp.pdb

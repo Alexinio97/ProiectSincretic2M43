@@ -1,0 +1,9 @@
+C:\Users\Alex\source\dev\PS2-M43\M43\Simulator\bin\Debug\net46\Simulator.exe.config
+C:\Users\Alex\source\dev\PS2-M43\M43\Simulator\bin\Debug\net46\Simulator.exe
+C:\Users\Alex\source\dev\PS2-M43\M43\Simulator\bin\Debug\net46\Simulator.pdb
+C:\Users\Alex\source\dev\PS2-M43\M43\Simulator\obj\Debug\net46\Simulator.csprojAssemblyReference.cache
+C:\Users\Alex\source\dev\PS2-M43\M43\Simulator\obj\Debug\net46\Simulator.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\dev\PS2-M43\M43\Simulator\obj\Debug\net46\Simulator.AssemblyInfoInputs.cache
+C:\Users\Alex\source\dev\PS2-M43\M43\Simulator\obj\Debug\net46\Simulator.AssemblyInfo.cs
+C:\Users\Alex\source\dev\PS2-M43\M43\Simulator\obj\Debug\net46\Simulator.exe
+C:\Users\Alex\source\dev\PS2-M43\M43\Simulator\obj\Debug\net46\Simulator.pdb

@@ -1,0 +1,14 @@
+C:\Users\Alex\source\dev\PS2-M43\M43\TcpClientServer\bin\Debug\netcoreapp2.1\TcpClientServer.deps.json
+C:\Users\Alex\source\dev\PS2-M43\M43\TcpClientServer\bin\Debug\netcoreapp2.1\TcpClientServer.runtimeconfig.json
+C:\Users\Alex\source\dev\PS2-M43\M43\TcpClientServer\bin\Debug\netcoreapp2.1\TcpClientServer.runtimeconfig.dev.json
+C:\Users\Alex\source\dev\PS2-M43\M43\TcpClientServer\bin\Debug\netcoreapp2.1\TcpClientServer.dll
+C:\Users\Alex\source\dev\PS2-M43\M43\TcpClientServer\bin\Debug\netcoreapp2.1\TcpClientServer.pdb
+C:\Users\Alex\source\dev\PS2-M43\M43\TcpClientServer\bin\Debug\netcoreapp2.1\Simulator.dll
+C:\Users\Alex\source\dev\PS2-M43\M43\TcpClientServer\bin\Debug\netcoreapp2.1\Simulator.pdb
+C:\Users\Alex\source\dev\PS2-M43\M43\TcpClientServer\obj\Debug\netcoreapp2.1\TcpClientServer.csprojAssemblyReference.cache
+C:\Users\Alex\source\dev\PS2-M43\M43\TcpClientServer\obj\Debug\netcoreapp2.1\TcpClientServer.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\dev\PS2-M43\M43\TcpClientServer\obj\Debug\netcoreapp2.1\TcpClientServer.AssemblyInfoInputs.cache
+C:\Users\Alex\source\dev\PS2-M43\M43\TcpClientServer\obj\Debug\netcoreapp2.1\TcpClientServer.AssemblyInfo.cs
+C:\Users\Alex\source\dev\PS2-M43\M43\TcpClientServer\obj\Debug\netcoreapp2.1\TcpClientServer.csproj.CopyComplete
+C:\Users\Alex\source\dev\PS2-M43\M43\TcpClientServer\obj\Debug\netcoreapp2.1\TcpClientServer.dll
+C:\Users\Alex\source\dev\PS2-M43\M43\TcpClientServer\obj\Debug\netcoreapp2.1\TcpClientServer.pdb

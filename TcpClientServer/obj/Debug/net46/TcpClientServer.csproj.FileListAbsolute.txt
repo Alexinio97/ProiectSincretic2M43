@@ -1,0 +1,13 @@
+C:\Users\Alex\source\dev\PS2-M43\M43\TcpClientServer\bin\Debug\net46\TcpClientServer.exe.config
+C:\Users\Alex\source\dev\PS2-M43\M43\TcpClientServer\bin\Debug\net46\TcpClientServer.exe
+C:\Users\Alex\source\dev\PS2-M43\M43\TcpClientServer\bin\Debug\net46\TcpClientServer.pdb
+C:\Users\Alex\source\dev\PS2-M43\M43\TcpClientServer\bin\Debug\net46\Simulator.exe
+C:\Users\Alex\source\dev\PS2-M43\M43\TcpClientServer\bin\Debug\net46\Simulator.pdb
+C:\Users\Alex\source\dev\PS2-M43\M43\TcpClientServer\bin\Debug\net46\Simulator.exe.config
+C:\Users\Alex\source\dev\PS2-M43\M43\TcpClientServer\obj\Debug\net46\TcpClientServer.csprojAssemblyReference.cache
+C:\Users\Alex\source\dev\PS2-M43\M43\TcpClientServer\obj\Debug\net46\TcpClientServer.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\dev\PS2-M43\M43\TcpClientServer\obj\Debug\net46\TcpClientServer.AssemblyInfoInputs.cache
+C:\Users\Alex\source\dev\PS2-M43\M43\TcpClientServer\obj\Debug\net46\TcpClientServer.AssemblyInfo.cs
+C:\Users\Alex\source\dev\PS2-M43\M43\TcpClientServer\obj\Debug\net46\TcpClientServer.csproj.CopyComplete
+C:\Users\Alex\source\dev\PS2-M43\M43\TcpClientServer\obj\Debug\net46\TcpClientServer.exe
+C:\Users\Alex\source\dev\PS2-M43\M43\TcpClientServer\obj\Debug\net46\TcpClientServer.pdb
